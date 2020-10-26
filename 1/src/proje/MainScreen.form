@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="adana" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="adiyaman" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="afyonkarahisar" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="agri" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="amasya" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="ankara" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="antalya" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="artvin" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="aydin" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="balikesir" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="bilecik" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="bingöl" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="bitlis" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="bolu" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="burdur" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="bursa" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="canakkale" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="cankiri" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="corum" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="denizli" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="diyarbakir" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="edirne" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="elazig" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="erzincan" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="erzurum" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="eskisehir" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="gaziantep" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="giresun" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="gumushane" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="hakkari" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="hatay" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="isparta" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="mersin" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="istanbul" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="izmir" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="kars" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="konya" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="kutahya" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="malatya" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="manisa" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="kahramanmaras" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="mardin" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="kastamonu" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="kayseri" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="kirklareli" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="kirsehir" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="nigde" min="-2" max="-2" attributes="0"/>
+                                          <Component id="nevsehir" min="-2" max="-2" attributes="0"/>
+                                          <Component id="mus" min="-2" max="-2" attributes="0"/>
+                                          <Component id="mugla" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="-2" pref="8" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="ordu" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="rize" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="sakarya" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="samsun" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="siirt" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="sinop" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="sivas" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="tekirdag" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="tokat" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="trabzon" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="tunceli" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="sanliurfa" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="usak" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="van" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="yozgat" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="zonguldak" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="aksaray" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="bayburt" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="karaman" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="kirikkale" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="duzce" min="-2" max="-2" attributes="0"/>
+                                  <Component id="osmaniye" min="-2" max="-2" attributes="0"/>
+                                  <Component id="kilis" min="-2" max="-2" attributes="0"/>
+                                  <Component id="karabuk" min="-2" max="-2" attributes="0"/>
+                                  <Component id="yalova" min="-2" max="-2" attributes="0"/>
+                                  <Component id="igdir" min="-2" max="-2" attributes="0"/>
+                                  <Component id="ardahan" min="-2" max="-2" attributes="0"/>
+                                  <Component id="bartin" min="-2" max="-2" attributes="0"/>
+                                  <Component id="sirnak" min="-2" max="-2" attributes="0"/>
+                                  <Component id="batman" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Component id="jLabel1" min="-2" pref="420" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="358" max="-2" attributes="0"/>
+                      <Component id="jButton1" min="-2" pref="140" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="0" pref="25" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="adana" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="bilecik" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="diyarbakir" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="hatay" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="konya" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ordu" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="tunceli" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="batman" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="adiyaman" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="bingöl" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="edirne" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="isparta" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="kutahya" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="rize" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="sanliurfa" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="sirnak" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="afyonkarahisar" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="bitlis" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="elazig" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="mersin" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="malatya" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="sakarya" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="usak" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="bartin" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="agri" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="bolu" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="erzincan" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="istanbul" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="manisa" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="samsun" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="van" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ardahan" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="amasya" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="burdur" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="erzurum" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="izmir" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="kahramanmaras" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="siirt" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="yozgat" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="igdir" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="ankara" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="bursa" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="eskisehir" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="kars" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="mardin" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="sinop" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="zonguldak" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="yalova" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="antalya" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="canakkale" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="gaziantep" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="kastamonu" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="mugla" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="sivas" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="aksaray" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="karabuk" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="artvin" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cankiri" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="giresun" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="kayseri" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="mus" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="tekirdag" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="bayburt" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="kilis" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="aydin" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="corum" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="gumushane" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="kirklareli" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="nevsehir" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="tokat" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="karaman" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="osmaniye" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="balikesir" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="denizli" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="hakkari" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="kirsehir" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="nigde" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="trabzon" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="kirikkale" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="duzce" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" pref="44" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+              <Component id="jButton1" min="-2" pref="34" max="-2" attributes="0"/>
+              <EmptySpace pref="107" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Kargo Gidecek &#x15e;ehirleri Se&#xe7;tikten Sonra Tamam Butonuna Bas&#x131;n&#x131;z"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="TAMAM"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="adana">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Adana"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="adiyaman">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ad&#x131;yaman"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="afyonkarahisar">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Afyonkarahisar"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="agri">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="A&#x11f;r&#x131;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="amasya">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Amasya"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="ankara">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ankara"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="antalya">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Antalya"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="artvin">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Artvin"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="aydin">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ayd&#x131;n"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="balikesir">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Bal&#x131;kesir"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="bilecik">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Bilecik"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="bing&#xf6;l">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Bing&#xf6;l"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="bitlis">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Bitlis"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="bolu">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Bolu"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="burdur">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Burdur"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="bursa">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Bursa"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="canakkale">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#xc7;anakkale"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cankiri">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#xc7;ank&#x131;r&#x131;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="corum">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#xc7;orum"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="denizli">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Denizli"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="diyarbakir">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Diyarbak&#x131;r"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="edirne">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Edirne"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="elazig">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Elaz&#x131;&#x11f;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="erzincan">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Erzincan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="erzurum">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Erzurum"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="eskisehir">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Eskisehir"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="gaziantep">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Gaziantep"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="giresun">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Giresun"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="gumushane">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="G&#xfc;m&#xfc;&#x15f;hane"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="hakkari">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Hakkari"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="hatay">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Hatay"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="isparta">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Isparta"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="mersin">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Mersin"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="istanbul">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x130;stanbul"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="izmir">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x130;zmir"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="kars">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Kars"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="kastamonu">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Kastamonu"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="kayseri">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Kayseri"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="kirklareli">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="K&#x131;rklareli"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="kirsehir">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="K&#x131;r&#x15f;ehir"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="konya">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Konya"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="kutahya">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="K&#xfc;tahya"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="malatya">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Malatya"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="manisa">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Manisa"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="kahramanmaras">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Kahramanmara&#x15f;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="mardin">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Mardin"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="mugla">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Mu&#x11f;la"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="mus">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Mu&#x15f;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nevsehir">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nev&#x15f;ehir"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nigde">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ni&#x11f;de"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="ordu">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ordu"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="rize">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Rize"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="sakarya">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Sakarya"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="samsun">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Samsun"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="siirt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Siirt"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="sinop">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Sinop"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="sivas">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Sivas"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="tekirdag">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Tekirda&#x11f;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="tokat">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Tokat"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="trabzon">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Trabzon"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="tunceli">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Tunceli"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="sanliurfa">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x15e;anl&#x131;urfa"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="usak">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="U&#x15f;ak"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="van">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Van"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="yozgat">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Yozgat"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="zonguldak">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Zonguldak"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="aksaray">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Aksaray"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="bayburt">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Bayburt"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="karaman">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Karaman"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="kirikkale">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="K&#x131;r&#x131;kkale"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="batman">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Batman"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="sirnak">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x15e;&#x131;rnak"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="bartin">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Bart&#x131;n"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="ardahan">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ardahan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="igdir">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="I&#x11f;d&#x131;r"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="yalova">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Yalova"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="karabuk">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Karab&#xfc;k"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="kilis">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Kilis"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="osmaniye">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Osmaniye"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="duzce">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="D&#xfc;zce"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>

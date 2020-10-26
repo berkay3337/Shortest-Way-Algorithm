@@ -1,0 +1,20 @@
+1.Güzergah:)Kocaeli Bursa Bilecik Eþkiþehir Kütahya Manisa Ýzmir 
+1.Güzergahýn Maliyeti:1476
+2.Güzergah:)Kocaeli Bursa Yalova Bursa Balýkesir Ýzmir 
+2.Güzergahýn Maliyeti:1194
+3.Güzergah:)Kocaeli Ýstanbul Tekirdað Kýrklareli Edirne Çanakkale Balýkesir Ýzmir 
+3.Güzergahýn Maliyeti:2030
+4.Güzergah:)Kocaeli Yalova Bursa Balýkesir Ýzmir 
+4.Güzergahýn Maliyeti:922
+5.Güzergah:)Kocaeli Yalova Bursa Sakarya Düzce Zonguldak Karabük Bolu Eþkiþehir Kütahya Bilecik Kütahya Uþak Afyonkarahisar Isparta Antalya Mersin Adana Karaman Konya Niðde Nevþehir Kayseri Sivas Ordu Tokat Yozgat Amasya Samsun Çorum Çankýrý Ankara Aksaray Kýrþehir Kýrýkkale Yozgat Tokat Amasya Çorum Sinop Kastamonu Bartýn Zonguldak Bolu Karabük Kastamonu Çankýrý Bolu Düzce Zonguldak Karabük Çankýrý Karabük Kastamonu Karabük Bartýn Karabük Bolu Düzce Bolu Çankýrý Bolu Bilecik Bursa Balýkesir Ýzmir 
+5.Güzergahýn Maliyeti:19400
+6.Güzergah:)Kocaeli Yalova Bursa Bilecik Sakarya Düzce Zonguldak Bartýn Kastamonu Çankýrý Çorum Yozgat Tokat Ordu Sivas Kayseri Adana Antalya Muðla Burdur Afyonkarahisar Uþak Kütahya Manisa Ýzmir 
+6.Güzergahýn Maliyeti:8410
+7.Güzergah:)Kocaeli Ýstanbul Tekirdað Kýrklareli Edirne Çanakkale Balýkesir Ýzmir 
+7.Güzergahýn Maliyeti:2030
+8.Güzergah:)Kocaeli Bursa Yalova Bursa Balýkesir Ýzmir 
+8.Güzergahýn Maliyeti:1194
+9.Güzergah:)Kocaeli Ýstanbul Tekirdað Kýrklareli Edirne Çanakkale Balýkesir Ýzmir 
+9.Güzergahýn Maliyeti:2030
+10.Güzergah:)Kocaeli Yalova Bursa Balýkesir Ýzmir 
+10.Güzergahýn Maliyeti:922
